@@ -1,3 +1,4 @@
 ollama
 llama2:7(b)
 nomic-embed-text
+langchain
